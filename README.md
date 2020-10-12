@@ -71,6 +71,13 @@ Fortunately there are no Mandatory vars for the UniBorg Support Config.
 - This is because of `telethon.errors.rpc_error_list.ApiIdPublishedFloodError`
     - `APP_ID`:    تستطيع جلبه من هنا https://my.telegram.org
     - `API_HASH`:    تستطيع جلبه من  https://my.telegram.org
+    -  `ENV`:                تستطيع  جليه من  https://generatestringsession.sandeep1709.repl.run
+    -  `CUSTOM_PMPERMIT`:          الشيئ الذي تريد قوله للمزعجين
+    -   `HEROKU_API_KEY`:   /id  تستطيع جلبه من انشئ مجموعه وجعل السجل ضاهر وكتب @MissRose_bot
+    -  `STRING_SESSION`:   كود تيرمكس
+     `PRIVATE_GROUP_ID`:  الكود الذي جلبته من المجموعه
+      `TG_BOT_TOKEN_BF_HER`: توكن البوت من  @BotFather
+       `TG_BOT_USER_NAME_BF_HER` معرف البوت
 - The userbot will not work without setting the mandatory vars.
 
 # Disclaimer
