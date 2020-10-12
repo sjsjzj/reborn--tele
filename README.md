@@ -1,4 +1,4 @@
-# Tele-rebo - Telegram tele-rebo
+# <a Tele-rebo - Telegram 
 
 <p align="left">
     <a href="https://t.me/https://t.me/telelrebo"> <img src="https://img.shields.io/badge/telegram-Support_Group-blue?style=@telerebox=telegram" alt="Support" /></a>
