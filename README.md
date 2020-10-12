@@ -1,7 +1,7 @@
 # Tele-rebo - Telegram tele-rebo
 
 <p align="left">
-    <a href="https://t.me/https://t.me/SZ6yNBvXZxXxnhRsE5EByA"> <img src="https://img.shields.io/badge/telegram-Support_Group-blue?style=social&logo=telegram" alt="Support" /></a>
+    <a href="https://t.me/https://t.me/telelrebo"> <img src="https://img.shields.io/badge/telegram-Support_Group-blue?style=social&logo=telegram" alt="Support" /></a>
     <a href="https://github.com/xditya/TeleBot/stargazers"><img src="https://img.shields.io/github/stars/xditya/TeleBot?style=social"></a>
     <a href="https://github.com/xditya/TeleBot"><img src="https://img.shields.io/github/last-commit/xditya/TeleBot?style=flat-square"></a>
 </p>
