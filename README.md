@@ -1,9 +1,9 @@
 # Tele-rebo - Telegram tele-rebo
 
 <p align="left">
-    <a href="https://t.me/https://t.me/telelrebo"> <img src="https://img.shields.io/badge/telegram-Support_Group-blue?style=social&logo=telegram" alt="Support" /></a>
-    <a href="https://github.com/xditya/TeleBot/stargazers"><img src="https://img.shields.io/github/stars/xditya/TeleBot?style=social"></a>
-    <a href="https://github.com/xditya/TeleBot"><img src="https://img.shields.io/github/last-commit/xditya/TeleBot?style=flat-square"></a>
+    <a href="https://t.me/https://t.me/telelrebo"> <img src="https://img.shields.io/badge/telegram-Support_Group-blue?style=telerebox=telegram" alt="Support" /></a>
+    <a href="https://github.com/telelrebo/telerebo/stargazers"><img src="https://img.shields.io/github/stars/telelrebo/telerebo?style=social"></a>
+    <a href="https://github.com/telelrebo/telelrebo"><img src="https://img.shields.io/github/last-commit/telersbo/telelrebo?style=flat-square"></a>
 </p>
     
 ## Video Tutorial on deploying
@@ -21,7 +21,7 @@ Click the below button to watch the video tutorial on deploying
 [![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/xditya/TeleBot)
 
 ## Support
-Join [Tele-rebo Support](https://@telerebo) for updates and new plugin suggestions.
+Join [Tele-rebo Support](https://telerebo) for updates and new plugin suggestions.
 Do fork and star the repo 
 
 ### Session String 
