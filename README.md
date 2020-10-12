@@ -17,7 +17,7 @@ Click the below button to watch the video tutorial on deploying
 [![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/xditya/TeleBot)
 
 ## Support
-Join [Tele-rebo Support](https:/@telerebox) for updates and new plugin suggestions.
+Join [Tele-rebo Support](https:@telerebox) for updates and new plugin suggestions.
 Do fork and star the repo 
 
 ### Session String 
@@ -27,7 +27,7 @@ Do fork and star the repo
 
 Simply clone the repository and run the main file:
 ```sh
-git clone https://github.com/xditya/TeleBot
+git clone https://github.com/telersbo/Tele-rebo
 cd TeleBot
 virtualenv -p /usr/bin/python3 venv
 . ./venv/bin/activate
