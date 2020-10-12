@@ -10,7 +10,7 @@
 
 Click the below button to watch the video tutorial on deploying
 
-"(https://youtu.be/e4vINpXenbQ)"
+"(https://youtu.be/e4vINpXenbQ)" الفيديو التعليمي
    
 ## The Easier Way to install
 
