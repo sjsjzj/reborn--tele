@@ -21,7 +21,7 @@ Click the below button to watch the video tutorial on deploying
 [![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/xditya/TeleBot)
 
 ## Support
-Join [Tele-rebo Support](https://telerebo) for updates and new plugin suggestions.
+Join [Tele-rebo Support](https:/@telerebox) for updates and new plugin suggestions.
 Do fork and star the repo 
 
 ### Session String 
@@ -69,7 +69,7 @@ Fortunately there are no Mandatory vars for the UniBorg Support Config.
 
 - Only two of the environment variables are mandatory.
 - This is because of `telethon.errors.rpc_error_list.ApiIdPublishedFloodError`
-    - `APP_ID`:    تستطيع جلبه من هناhttps://my.telegram.org
+    - `APP_ID`:    تستطيع جلبه من هنا https://my.telegram.org
     - `API_HASH`:    تستطيع جلبه من  https://my.telegram.org
 - The userbot will not work without setting the mandatory vars.
 
