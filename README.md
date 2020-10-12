@@ -1,7 +1,7 @@
 # Tele-rebo - Telegram tele-rebo
 
 <p align="left">
-    <a href="https://t.me/https://t.me/telelrebo"> <img src="https://img.shields.io/badge/telegram-Support_Group-blue?style=telerebox=telegram" alt="Support" /></a>
+    <a href="https://t.me/https://t.me/telelrebo"> <img src="https://img.shields.io/badge/telegram-Support_Group-blue?style=@telerebox=telegram" alt="Support" /></a>
     <a href="https://github.com/telelrebo/telerebo/stargazers"><img src="https://img.shields.io/github/stars/telelrebo/telerebo?style=social"></a>
     <a href="https://github.com/telelrebo/telelrebo"><img src="https://img.shields.io/github/last-commit/telersbo/telelrebo?style=flat-square"></a>
 </p>
@@ -50,8 +50,8 @@ __The Userbot should work by setting only the first two variables__
 from heroku_config import Var
 
 class Development(Var):
-  APP_ID = 6
-  API_HASH = "eb06d4abfb49dc3eeb1aeb98ae0f581e"
+  APP_ID ="(ضع الايبي ايدي)" 
+  API_HASH = "(ضع الايبي شن)" 
 ```
 
 ### UniBorg Configuration
